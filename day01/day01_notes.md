@@ -11,7 +11,7 @@ Which workshop department should handle the creation
 
 Unfortunately the elves stored the wishes in JSON, so you're going to have to parse out the children's wishes.
 
-## The challenge
+## The challenge 🎁
 Create a report showing what gifts children want, with difficulty ratings and categorization.
 
 The primary wish will be the first choice
